@@ -1,0 +1,10 @@
+127.0.0.1 - - [19/Jun/2023:14:10:38 +0000] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:10:59 +0000] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:10:59 +0000] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:11:14 +0000] "GET /medicare HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:11:16 +0000] "GET /medicare/ HTTP/1.1" 200 13123
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:11:16 +0000] "GET /medicare/resources/css/bootstrap-readable-theme.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:11:16 +0000] "GET /medicare/resources/css/myapp.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:11:16 +0000] "GET /medicare/resources/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:11:30 +0000] "GET /medicare/home HTTP/1.1" 200 13123
+0:0:0:0:0:0:0:1 - - [19/Jun/2023:14:11:32 +0000] "GET /medicare/home HTTP/1.1" 200 13123
